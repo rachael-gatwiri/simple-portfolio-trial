@@ -18,6 +18,7 @@ This is a simple README file containing my background, intrests, hobbies and ski
 *HTML
 *CSS
 *bootstrap
+###### copyright and licence information
 
 Copyright (c) 2021 Rachael
 
