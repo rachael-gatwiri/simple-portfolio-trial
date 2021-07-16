@@ -7,17 +7,17 @@ Rachael Gatwiri
 This is a simple README file containing my background, intrests, hobbies and skills.
 
 ## Project Setup
-*HTML
-*CSS
-*bootstrap
+* HTML
+* CSS
+* bootstrap
 
 ## Link to live site in GitHub pages
 https://github.com/rachael-gatwiri/portfolio-project-index.html.git
 
 ## Technology used
-** HTML
-** CSS
-** bootstrap
+* HTML
+* CSS
+* bootstrap
 ### copyright and licence information
 
 Copyright (c) 2021 Rachael
