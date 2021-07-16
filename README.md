@@ -15,9 +15,9 @@ This is a simple README file containing my background, intrests, hobbies and ski
 https://github.com/rachael-gatwiri/portfolio-project-index.html.git
 
 ## Technology used
-*HTML
-*CSS
-*bootstrap
+** HTML
+** CSS
+** bootstrap
 ### copyright and licence information
 
 Copyright (c) 2021 Rachael
