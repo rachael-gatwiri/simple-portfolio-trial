@@ -1,7 +1,7 @@
 # MY PORTFOLIO PROJECT
 
 ## Developer
-Rachael Gatwiri
+RACHAEL GATWIRI
 
 ##  Description
 This is a simple README file containing my background, intrests, hobbies and skills.
