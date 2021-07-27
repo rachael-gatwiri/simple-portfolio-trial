@@ -9,9 +9,10 @@ RACHAEL GATWIRI
 This is a simple README file containing my background, intrests, hobbies and skills.
 
 ## Project Setup
-* HTML
-* CSS
-* bootstrap
+* code
+* Git Hub
+* Markdown
+* chrome
 
 ## Link to live site in GitHub pages
 https://github.com/rachael-gatwiri/portfolio-project-index.html.git
