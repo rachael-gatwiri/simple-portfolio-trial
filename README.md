@@ -1,6 +1,6 @@
 # MY PORTFOLIO LAND.PAGE PROJECT
 
-![portfolio](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fportfolio&psig=AOvVaw0bOgBKy8bELlcewauQxypY&ust=1627475980588000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIiDqNCig_ICFQAAAAAdAAAAABAD)
+![portfolio] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fportfolio&psig=AOvVaw0bOgBKy8bELlcewauQxypY&ust=1627475980588000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIiDqNCig_ICFQAAAAAdAAAAABAD)
 
 ## Developer
 RACHAEL GATWIRI
