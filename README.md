@@ -1,6 +1,6 @@
 # MY PORTFOLIO LAND.PAGE PROJECT
 
-![hudumabank](https://image.shutterstock.com/image-photo/bank-building-260nw-574713295.jpg)
+![portfolio](https://image.shutterstock.com/image-photo/text-portfolio-on-brown-paper-260nw-387456811.jpg)
 
 ## Developer
 RACHAEL GATWIRI
