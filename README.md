@@ -15,7 +15,7 @@ This is a simple README file containing my background, intrests, hobbies and ski
 * chrome
 
 ##### Link to live site in GitHub pages
-<a href="git@github.com:rachael-gatwiri/Independent-project-index.html.git"></a>
+https://github.com/rachael-gatwiri/port-folio.git
 
 ## Technology used
 * HTML
