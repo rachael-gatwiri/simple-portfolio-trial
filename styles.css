@@ -1,0 +1,43 @@
+img{
+    width: 200px;
+    border-radius: 300px;
+    object-fit: cover;
+
+}
+.username{
+font-weight: bold;
+}
+.boxmodel{
+border: 2px solid red;
+border-left:2px solid blue;
+border-right: 2px solid green;
+border-top: 4px solid black;
+border-bottom: 4px solid pink;
+padding: 6px;
+margin: 20px;
+background-color: yellowgreen;
+inline-size: 250px;
+font-size: 50px;  
+box-sizing: border-box;
+}
+.img1{
+    min-width: 800px;
+    min-height: 800px;
+    object-fit: contain;
+}
+.img2{
+    min-width: 200px;
+    min-height: 200px;
+    object-fit: contain;   
+}
+.heading{
+color: blue;
+font-size: 90px;
+
+}
+.important {
+color: green;
+}
+.link{
+    color: white;
+}
