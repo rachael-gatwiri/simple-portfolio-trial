@@ -3,10 +3,12 @@
 ![portfolio](https://image.shutterstock.com/image-photo/text-portfolio-on-brown-paper-260nw-387456811.jpg)
 
 ## Developer
+
 **Rachael Gatwiri**
 
 ### Description
-This is a simple README file containing my background, intrests, hobbies and skills.
+
+This website's purpose is to showcase the professional bio and web design work of Rachael Gatwiri so far, all done during her first week of school at Moringa School. The projects used involved learning how to use and incorporate the following programming tools: the command line, html, css, github, and bootstrap.
 
 #### Project Setup
 * code
@@ -17,10 +19,18 @@ This is a simple README file containing my background, intrests, hobbies and ski
 ##### Link to live site in GitHub pages
 https://github.com/rachael-gatwiri/port-folio.git
 
+## known Bugs
+
+This website is a work in progress. As her skills develop, Rachael will add and edit the html and css accordingly to create a more engaging and interactive experience.
+
 ## Technology used
 * HTML
 * CSS
 * bootstrap
+
+## SUPPORT AND CONTACT DETAILS
+
+If you run into any issues, or have questions, ideas or concerns, please contact Catherine at rachaelmuga1@gmail.com or [rachael-gatwiri] on github. Please also feel free to make a meaningful contribution to the code for her site!
 
 ### LICENCE
 Copyright (c) 2021 RachaeL
